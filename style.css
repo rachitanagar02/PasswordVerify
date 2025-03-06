@@ -1,0 +1,31 @@
+body,html{
+    margin:0;
+    padding:0;
+    height:100%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: black;
+}
+.box{
+    background-color: grey;
+    text-align:center;
+    border-radius:50px;
+    border:2px solid gold;
+    padding:100px;
+    width:20%;
+}
+input{
+    background-color: antiquewhite;
+    height:40px;
+    width:300px;
+    border:1px solid gold;
+    border-radius:4px;
+}
+p{
+    font-size: 150%;
+
+}
